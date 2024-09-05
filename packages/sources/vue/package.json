@@ -33,7 +33,7 @@
     "@vtmn/css-design-tokens": "^1.1.2",
     "@vtmn/icons": "^1.3.0",
     "core-js": "^3.21.0",
-    "vue": "^3.2.26"
+    "vue": "^3.3.5"
   },
   "devDependencies": {
     "@babel/core": "^7.17.12",
