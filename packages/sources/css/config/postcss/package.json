@@ -9,7 +9,7 @@
     "autoprefixer": "^10.3.6",
     "postcss": "^8.4.6",
     "postcss-cli": "^10.0.0",
-    "postcss-color-mod-function": "^3.0.3",
+    "postcss-color-mod-function": "^4.0.0",
     "postcss-combine-duplicated-selectors": "^10.0.2",
     "postcss-combine-media-query": "^1.0.1",
     "postcss-css-var-to-less-var": "^1.0.0",
